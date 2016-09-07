@@ -1,4 +1,4 @@
-
+# no checks for incorrect user input and only has dumb AI
 class Board
 	@@count = 1
 	 def self.display(guess,black,white)
